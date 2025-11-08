@@ -29,6 +29,8 @@ Hello! I'm Abhas, a passionate future developer. I enjoy solving problems, creat
  </picture> 
 </a>
 
+[![@abhas20's Holopin badges](https://holopin.me/abhas20)](https://holopin.io/@abhas20)
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
