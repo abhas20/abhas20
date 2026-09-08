@@ -33,6 +33,7 @@ Hello! I'm Abhas, a passionate future developer. I enjoy solving problems, creat
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhas20&theme=tokyonight&hide_border=true&ring=FF61A6&fire=00E6FF" alt="abhas20 streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=abhas20&show_icons=true&theme=transparent&hide_border=true" alt="abhas20 stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhas20&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
